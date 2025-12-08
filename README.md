@@ -1,18 +1,10 @@
-<h1 align="center">Hello World, I'm Abdulla Ermatov</h1>
-<h3 align="center">I'm a Java backend developer</h3>
-
-- 💬 Ask me about **Java, Spring Boot and Angular**
+<h1 align="center">Software Engineer</h1>
 
 - 📫 How to reach me **abdulla.ermatov0407@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/brty0](https://shorturl.at/brty0)
-
-- ⚡ Fun fact **I think I am a bit of a nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulla-ermatov-b0351921b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdula-ermatov" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulla04_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulla04_07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
